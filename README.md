@@ -19,4 +19,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Tanstack-Query-Hotels-App
